@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cw1Von35BSGKO0RW9WusK7gADQVg5nxS8R4O8E0mgU94NInhXM70T8w1bczxO0ou4aa7TvX2QvWW/XUpdi0cbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\ModeloVistaControlador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevAndDel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

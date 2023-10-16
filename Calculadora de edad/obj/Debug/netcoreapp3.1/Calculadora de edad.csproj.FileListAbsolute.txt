@@ -1,0 +1,14 @@
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.exe
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.deps.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.runtimeconfig.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.runtimeconfig.dev.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.dll
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\bin\Debug\netcoreapp3.1\Calculadora de edad.pdb
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.csproj.AssemblyReference.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.AssemblyInfoInputs.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.AssemblyInfo.cs
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.csproj.CoreCompileInputs.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.dll
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.pdb
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\Calculadora de edad\obj\Debug\netcoreapp3.1\Calculadora de edad.genruntimeconfig.cache

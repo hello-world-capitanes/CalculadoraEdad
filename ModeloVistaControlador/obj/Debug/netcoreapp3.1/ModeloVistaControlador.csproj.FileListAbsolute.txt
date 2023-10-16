@@ -1,0 +1,14 @@
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.exe
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.deps.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.runtimeconfig.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.runtimeconfig.dev.json
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.dll
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\bin\Debug\netcoreapp3.1\ModeloVistaControlador.pdb
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.csproj.AssemblyReference.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.AssemblyInfoInputs.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.AssemblyInfo.cs
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.csproj.CoreCompileInputs.cache
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.dll
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.pdb
+C:\Users\DevAndDel\source\repos\Curso Iniciacion .NET\Calculadora de edad\Basic\ModeloVistaControlador\obj\Debug\netcoreapp3.1\ModeloVistaControlador.genruntimeconfig.cache

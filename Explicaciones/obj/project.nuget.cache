@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HepuIE40kAZL2PxZr/bOf9QQnDnemC0C7YWQ3tCSpWgSn42fmXtNw4tnQL4AIFoBOe01Caeh0mIO0EnVgU9iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\Explicaciones\\Explicaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevAndDel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
