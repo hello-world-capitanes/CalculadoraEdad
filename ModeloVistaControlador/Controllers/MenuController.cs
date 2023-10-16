@@ -44,7 +44,7 @@ namespace ModeloVistaControlador.Controllers
         private void GetName()
         {
             personModel.Name = menuView.GetNameInput();
-            menuView.ShowName(personModel.Name);
+            menuView.ShowName(personModel.Name); 
         }
     }
 }
