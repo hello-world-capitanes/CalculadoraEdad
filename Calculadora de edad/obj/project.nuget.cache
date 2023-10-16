@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U8agBH8pzDWKWFhg8PiHTu08uEeITcAzNvAjieAmPhoZPcRlbqgdWu+d/heG7cSwVpI+GqD6wf+mgm3N6Akshw==",
+  "dgSpecHash": "WutIaeZz89FblvxeNfnu7lBoPTcJ/biBfc4c0U2ZbS2hiZesABF6gTWfTKRpJbkRl5gB/X2NJVK6cywCX19XdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\Calculadora de edad\\Calculadora de edad.csproj",
+  "projectFilePath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\Calculadora de edad\\Calculadora de edad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DevAndDel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\ModeloVistaControlador.csproj": {}
+    "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\ModeloVistaControlador\\ModeloVistaControlador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\ModeloVistaControlador.csproj": {
+    "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\ModeloVistaControlador\\ModeloVistaControlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\ModeloVistaControlador.csproj",
+        "projectUniqueName": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\ModeloVistaControlador\\ModeloVistaControlador.csproj",
         "projectName": "ModeloVistaControlador",
-        "projectPath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\ModeloVistaControlador.csproj",
+        "projectPath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\ModeloVistaControlador\\ModeloVistaControlador.csproj",
         "packagesPath": "C:\\Users\\DevAndDel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\Basic\\ModeloVistaControlador\\obj\\",
+        "outputPath": "C:\\Users\\DevAndDel\\source\\repos\\Curso Iniciacion .NET\\Calculadora de edad\\CalculadoraEdad\\ModeloVistaControlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

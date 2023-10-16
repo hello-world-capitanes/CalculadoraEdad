@@ -6,7 +6,7 @@ namespace ModeloVistaControlador.Controllers
     class MenuController
     {
         private UserModel personModel;
-        private MenuView menuView;
+        private MenuView menuView; 
 
         public MenuController()
         {
